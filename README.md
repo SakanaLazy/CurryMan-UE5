@@ -1,4 +1,4 @@
-# Unreal Engine 5 – Gameplay Systems Prototype (C++)
+# The Adventures of CurryMan– Gameplay Systems Prototype (C++)
 
 This repository contains a **gameplay prototype built in Unreal Engine 5 using C++**, focused on testing player control, combat flow, and systemic interaction.
 
